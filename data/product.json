@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Essence Mascara Lash Princess1000",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "rating": 4,
+    "price": 9.99
+  },
+  {
+    "name": "Neutrogena Hydro Boost Water Gel",
+    "description": "A lightweight gel moisturizer with hyaluronic acid to instantly quench dry skin. Oil-free and non-comedogenic.",
+    "rating": 5,
+    "price": 16.99
+  },
+  {
+    "name": "Maybelline Fit Me Matte + Poreless Foundation",
+    "description": "A foundation that mattifies and refines pores for a natural, seamless finish. Ideal for normal to oily skin.",
+    "rating": 4,
+    "price": 7.49
+  },
+  {
+    "name": "NYX Professional Makeup Setting Spray",
+    "description": "Lock in your makeup with this lightweight, long-lasting setting spray that provides a matte finish.",
+    "rating": 4,
+    "price": 8.99
+  },
+  {
+    "name": "e.l.f. Poreless Putty Primer",
+    "description": "A skin-perfecting primer that creates a smooth canvas and grips makeup for all-day wear.",
+    "rating": 5,
+    "price": 10.00
+  },
+  {
+    "name": "CeraVe Foaming Facial Cleanser",
+    "description": "A gentle foaming cleanser for normal to oily skin that cleanses without disrupting the skin's natural barrier.",
+    "rating": 4,
+    "price": 13.49
+  },
+  {
+    "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+    "description": "A high-strength vitamin and mineral formula to reduce the appearance of skin blemishes and congestion.",
+    "rating": 4,
+    "price": 6.50
+  },
+  {
+    "name": "TRESemmé Keratin Smooth Shampoo",
+    "description": "Infused with keratin and marula oil to fight frizz, detangle, and boost shine for sleek, salon-smooth hair.",
+    "rating": 3,
+    "price": 5.99
+  },
+  {
+    "name": "L'Oréal Paris Voluminous Lash Paradise Mascara",
+    "description": "Volumizing and lengthening mascara that delivers feathery-soft lashes with intense black pigment.",
+    "rating": 5,
+    "price": 10.99
+  },
+  {
+    "name": "Revlon ColorStay Eyeliner",
+    "description": "A waterproof, smudge-proof eyeliner that glides on smoothly for lasting definition.",
+    "rating": 4,
+    "price": 6.79
+  },
+  {
+    "name": "Aveeno Daily Moisturizing Lotion",
+    "description": "Clinically proven to improve the health of dry skin in one day, with soothing oat formula.",
+    "rating": 5,
+    "price": 8.49
+  },
+  {
+    "name": "Batiste Dry Shampoo Original",
+    "description": "Quickly refreshes hair without water, absorbs oil, and adds volume with a classic clean fragrance.",
+    "rating": 4,
+    "price": 7.99
+  },
+  {
+    "name": "Milani Baked Blush - Luminoso",
+    "description": "Highly pigmented blush with a luminous finish to brighten and highlight your cheeks.",
+    "rating": 4,
+    "price": 9.49
+  },
+  {
+    "name": "Garnier Micellar Cleansing Water",
+    "description": "All-in-one cleanser and makeup remover that’s gentle on skin yet tough on makeup.",
+    "rating": 5,
+    "price": 6.99
+  },
+  {
+    "name": "Covergirl Clean Fresh Skin Milk",
+    "description": "A nourishing, dewy-finish foundation made with coconut milk and aloe extract.",
+    "rating": 3,
+    "price": 11.49
+  },
+  {
+    "name": "Physicians Formula Butter Bronzer",
+    "description": "A creamy bronzer infused with Murumuru butter for a tropical glow and soft focus finish.",
+    "rating": 4,
+    "price": 13.99
+  },
+  {
+    "name": "Real Techniques Miracle Complexion Sponge",
+    "description": "A versatile makeup sponge designed to blend foundation seamlessly for a flawless finish.",
+    "rating": 5,
+    "price": 5.99
+  },
+  {
+    "name": "Wet n Wild MegaGlo Highlighting Powder",
+    "description": "Ultra-pearly highlighter that gives a radiant, lit-from-within glow at an unbeatable price.",
+    "rating": 4,
+    "price": 4.99
+  },
+  {
+    "name": "Dove Beauty Bar Sensitive Skin",
+    "description": "Fragrance-free bar soap specially formulated for sensitive skin. Moisturizing and gentle.",
+    "rating": 5,
+    "price": 3.49
+  },
+  {
+    "name": "Olay Regenerist Micro-Sculpting Cream",
+    "description": "Anti-aging face moisturizer with hyaluronic acid and vitamin B3 for visibly firm, smooth skin.",
+    "rating": 5,
+    "price": 28.99
+  }
+]
